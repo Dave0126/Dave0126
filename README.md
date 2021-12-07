@@ -1,7 +1,6 @@
 ### Yoo, I'm Guohao 👋
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dave0126)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GuohaoDai0126)
 
 I am from China 🇨🇳 and studying at 🇫🇷[E.N.S.E.E.I.H.T.](https://www.enseeiht.fr/fr/index.html), Master in Computer Science
