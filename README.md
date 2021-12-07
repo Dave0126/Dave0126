@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dave0126)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GuohaoDai0126)
+[![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://dave980126.wixsite.com/website)
 
 I am from China 🇨🇳 and studying at 🇫🇷[E.N.S.E.E.I.H.T.](https://www.enseeiht.fr/fr/index.html), Master in Computer Science
 
