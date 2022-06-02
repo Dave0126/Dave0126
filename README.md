@@ -9,11 +9,11 @@ Welcome to my Github page!
 
 I am from China 🇨🇳 and studying at 🇫🇷[E.N.S.E.E.I.H.T.](https://www.enseeiht.fr/fr/index.html), Master in Computer Science
 
-🌱 I’m currently completing the last year of master degree and learning Java Concurrency and Java Virtual Machine in my free-time...🚀
+🌱 I’m currently completing the last year of master degree and learning Java Concurrency and Java Virtual Machine in my free-time... 🚀
 
-Be free to check out my pins! 
+Be free to check out my pins 🎉
 
-Stay healthy and strong!
+Stay healthy and strong! 💪
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0126&layout=compact&hide_border=true&langs_count=10)
 
