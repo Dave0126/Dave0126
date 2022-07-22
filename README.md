@@ -9,7 +9,7 @@ Welcome to my Github page!
 
 I am from China 🇨🇳 and studying at 🇫🇷[E.N.S.E.E.I.H.T.](https://www.enseeiht.fr/fr/index.html), Master in Computer Science.
 
-🌱 I’m currently completing the last year of master degree and learning Java Concurrency, Java Virtual Machine and Spring framework in my free-time... 🚀
+I’m currently completing the last year of master degree and learning Java Concurrency, Java Virtual Machine and Spring framework in my free-time... 🚀
 
 Be free to check out my repos 🎉
 
