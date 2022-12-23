@@ -2,6 +2,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dave0126)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GuohaoDai0126)
 [![Bolg](https://img.shields.io/badge/Blog-Lost%20N%20Found-green)](https://lostnfound.top/)
+<i class="fab fa-github"></i>
 
 ### Salut, I'm Guohao 👋
 
