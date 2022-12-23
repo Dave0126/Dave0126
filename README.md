@@ -18,10 +18,11 @@ Stay healthy and strong! 💪
 
 
 <div align="center">
-    <span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api?username=Dave0126" />
-    <span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0126&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0126&layout=compact&hide_border=true&langs_count=10" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Dave0126" />
+    <span>&emsp;&emsp;</span>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0126&layout=compact&langs_count=8" />
+    <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center">
