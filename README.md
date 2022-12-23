@@ -16,7 +16,10 @@ Be free to check out my repos 🎉
 
 Stay healthy and strong! 💪
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0126&layout=compact&hide_border=true&langs_count=10)
+
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0126&layout=compact&hide_border=true&langs_count=10" />
+</div>
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
