@@ -19,9 +19,7 @@ Stay healthy and strong! 💪
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dave0126&layout=compact&hide_border=true&langs_count=10)
 
 <div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
-<span>  </span>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
 
 
