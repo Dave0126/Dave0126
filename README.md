@@ -2,8 +2,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dave0126)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GuohaoDai0126)
 [![Bolg](https://img.shields.io/badge/Blog-Lost%20N%20Found-green？?style=for-the-badge)](https://lostnfound.top/)
-<!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
 
 ### Salut, I'm Guohao 👋
