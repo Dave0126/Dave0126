@@ -2,6 +2,8 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dave0126)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GuohaoDai0126)
 [![Bolg](https://img.shields.io/badge/Blog-Lost%20N%20Found-green？?style=for-the-badge)](https://lostnfound.top/)
+<!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
 
 ### Salut, I'm Guohao 👋
@@ -49,6 +51,7 @@ Stay healthy, strong, and inspired! 🌟
 <code><img height="20" src="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg" alt="ROS" title="ROS"></code>
 <code><img height="20" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" title="Hugging Face"></code>
 <code><img height="20" src="https://www.svgrepo.com/download/354240/pytorch.svg" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/354528/vue.svg" alt="VUE" title="VUE"></code>
 <br>
 
 <code><img height="20" src="https://www.svgrepo.com/download/331488/mongodb.svg" alt="MongoDB" title="MongoDB"></code>
@@ -69,11 +72,15 @@ Stay healthy, strong, and inspired! 🌟
 
 <code><img height="20" src="https://www.svgrepo.com/download/452210/git.svg" alt="Git" title="Git"></code>
 <code><img height="20" src="https://www.svgrepo.com/download/374171/vscode.svg" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IDEA" title="IDEA"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" alt="DataGrip" title="DataGrip"></code>
 <code><img height="20" src="https://www.svgrepo.com/download/374168/vim.svg" alt="Vim" title="Vim"></code>
 <code><img height="20" src="https://www.svgrepo.com/download/448221/docker.svg" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/354115/nginx.svg" alt="Nginx" title="Nginx"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/373523/conda.svg" alt="Conda" title="Conda"></code>
 
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IDEA" title="IDEA"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" alt="DataGrip" title="DataGrip"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" title="Postman"></code>
+<br>
 
 **Design**
 
