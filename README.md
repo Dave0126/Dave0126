@@ -40,6 +40,7 @@ Stay healthy, strong, and inspired! 🌟
 
 
 **Frameworks**
+
 <code><img height="20" src="https://www.svgrepo.com/download/376350/spring.svg" alt="Spring" title="Spring"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/51937841/209326116-809db206-1518-4fc6-ae14-a63e3b2a1717.png" alt="MyBatis" title="MyBatis"></code>
 <code><img height="20" src="https://www.svgrepo.com/download/354118/nodejs.svg" alt="NodeJS" title="NodeJS"></code>
@@ -57,6 +58,7 @@ Stay healthy, strong, and inspired! 🌟
 <br>
 
 **Operating System**
+
 <code><img height="20" src="https://www.svgrepo.com/download/509155/macos.svg" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://www.svgrepo.com/download/355338/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://www.svgrepo.com/download/176748/windows-windows.svg" alt="Windows" title="Windows"></code>
@@ -64,6 +66,7 @@ Stay healthy, strong, and inspired! 🌟
 <br>
 
 **Tools and Environments**
+
 <code><img height="20" src="https://www.svgrepo.com/download/452210/git.svg" alt="Git" title="Git"></code>
 <code><img height="20" src="https://www.svgrepo.com/download/374171/vscode.svg" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IDEA" title="IDEA"></code>
@@ -73,6 +76,7 @@ Stay healthy, strong, and inspired! 🌟
 
 
 **Design**
+
 <code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" title="PhotoShop"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere" title="Premiere"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After-Effect" title="After-Effect"></code>
