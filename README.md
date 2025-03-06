@@ -8,49 +8,71 @@
 
 Welcome to my GitHub page! 
 
-I am from China 🇨🇳 and studying at 🇫🇷[E.N.S.E.E.I.H.T.](https://www.enseeiht.fr/fr/index.html), Master in Computer Science.
+I am from China 🇨🇳 and get Diplôme d'ingénieur(Master's degree) in Computer Science from [E.N.S.E.E.I.H.T.](https://www.enseeiht.fr/fr/index.html) in France 🇫🇷.
 
-I’m currently completing the last year of master degree ... 🚀
+Working as an engineer, focusing on *​Large Language Model(LLM) research and application development*, as well as *​3D scene reconstruction and localization*. 🚀
 
 Be free to check out my repos 🎉
 
-Stay healthy and strong! 💪
+Stay healthy, strong, and inspired! 🌟
 
 ---
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
 
-**Languages and Frameworks**
+**Languages**
 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/452234/java.svg" alt="Java" title="Java"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/452091/python.svg" alt="Python" title="Python"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/355081/js.svg" alt="JavaScript" title="JavaScript"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/459084/logo-ts.svg" alt="TypeScript" title="TypeScript"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/353478/bash-icon.svg" alt="Bash" title="Bash"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/341068/sql.svg" alt="SQL" title="SQL"></code>
+<code><img height="20" src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209331018-4998df48-56ce-4808-b725-a18e871023f0.png" alt="Golang" title="Golang"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209328160-a5e230dc-2898-4271-b940-cd88ff9574e3.png" alt="SQL" title="SQL"></code>
 <code><img height="20" src="https://ocaml.org/logo.svg" alt="OCaml" title="OCaml"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS"></code>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" title="MATLAB"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209330491-89c59d45-d0ef-4caf-aae6-f08bfdee4794.png" alt="Jupyter" title="Jupyter"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209326627-dae28557-5c22-4c86-9b62-1d4bfa426713.png" alt="Markdown" title="Markdown"></code>
-
-<code><img height="20" src="https://img.icons8.com/color/48/null/spring-logo.png" alt="Spring" title="Spring"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209326116-809db206-1518-4fc6-ae14-a63e3b2a1717.png" alt="MyBatis" title="MyBatis"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209330070-70698d31-dc41-4bf2-993b-82b09234320b.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/452228/html-5.svg" alt="HTML" title="HTML"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/373535/css.svg" alt="CSS" title="CSS"></code>
 <br>
 
+<code><img height="20" src="https://www.svgrepo.com/download/510065/markdown.svg" alt="Markdown" title="Markdown"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/376333/latex.svg" alt="LaTex" title="LaTex"></code>
 
+
+**Frameworks**
+<code><img height="20" src="https://www.svgrepo.com/download/376350/spring.svg" alt="Spring" title="Spring"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209326116-809db206-1518-4fc6-ae14-a63e3b2a1717.png" alt="MyBatis" title="MyBatis"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/354118/nodejs.svg" alt="NodeJS" title="NodeJS"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/373830/matlab.svg" alt="MATLAB" title="MATLAB"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/353949/jupyter.svg" alt="Jupyter" title="Jupyter"></code>
+<code><img height="20" src="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg" alt="ROS" title="ROS"></code>
+<code><img height="20" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" title="Hugging Face"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/354240/pytorch.svg" alt="PyTorch" title="PyTorch"></code>
+<br>
+
+<code><img height="20" src="https://www.svgrepo.com/download/331488/mongodb.svg" alt="MongoDB" title="MongoDB"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/306453/mysql.svg" alt="MySQL" title="MySQL"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/354200/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/354272/redis.svg" alt="Redis" title="Redis"></code>
+<br>
+
+**Operating System**
+<code><img height="20" src="https://www.svgrepo.com/download/509155/macos.svg" alt="MacOS" title="MacOS"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/355338/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/176748/windows-windows.svg" alt="Windows" title="Windows"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/353543/centos-icon.svg" alt="CentOS" title="CentOS"></code>
+<br>
 
 **Tools and Environments**
+<code><img height="20" src="https://www.svgrepo.com/download/452210/git.svg" alt="Git" title="Git"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/374171/vscode.svg" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IDEA" title="IDEA"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" alt="DataGrip" title="DataGrip"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/374168/vim.svg" alt="Vim" title="Vim"></code>
+<code><img height="20" src="https://www.svgrepo.com/download/448221/docker.svg" alt="Docker" title="Docker"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209324712-2f52f0de-d018-477d-bcd6-43c5ca2cae75.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209330298-7a01d74d-8603-4904-830f-e4f26cd9c3a3.png" alt="Docker" title="Docker"></code>
 
 **Design**
-
 <code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" title="PhotoShop"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere" title="Premiere"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After-Effect" title="After-Effect"></code>
