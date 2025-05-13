@@ -104,4 +104,8 @@ Stay healthy, strong, and inspired! 🌟
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Dave0126" />
 </div>
 
+---
+
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/141286860/latest-rides/e4da99cb01d5beab20a883b01c4a1cf0b3f0c870'></iframe>
+
 
