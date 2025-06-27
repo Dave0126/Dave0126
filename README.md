@@ -8,7 +8,7 @@
 
 Welcome to my GitHub page! 
 
-I am from China 🇨🇳 and get Diplôme d'ingénieur(Master's degree) in Computer Science from [E.N.S.E.E.I.H.T.](https://www.enseeiht.fr/fr/index.html) in France 🇫🇷.
+I am from China 🇨🇳 and have obtained a Diplôme d'ingénieur(Master's degree) in Computer Science from [E.N.S.E.E.I.H.T.](https://www.enseeiht.fr/fr/index.html) in France 🇫🇷.
 
 Working as an engineer, focusing on *​Large Language Model(LLM) research and application development*, as well as *​3D scene reconstruction and localization*. 🚀
 
